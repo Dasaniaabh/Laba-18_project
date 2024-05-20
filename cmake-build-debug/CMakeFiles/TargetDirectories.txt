@@ -1,3 +1,8 @@
 D:/Laba-18project/cmake-build-debug/CMakeFiles/Laba_18project.dir
 D:/Laba-18project/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/Laba-18project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Laba-18project/cmake-build-debug/libs/CMakeFiles/edit_cache.dir
+D:/Laba-18project/cmake-build-debug/libs/CMakeFiles/rebuild_cache.dir
+D:/Laba-18project/cmake-build-debug/libs/data_struct/CMakeFiles/data_struct.dir
+D:/Laba-18project/cmake-build-debug/libs/data_struct/CMakeFiles/edit_cache.dir
+D:/Laba-18project/cmake-build-debug/libs/data_struct/CMakeFiles/rebuild_cache.dir
